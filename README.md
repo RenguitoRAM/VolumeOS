@@ -39,7 +39,8 @@ VolumeOS is not public.
 
 To request access to the engine, custom bot builds, or integration support:
 
-📬 **info@voluma.tech**
+1. Fork this repo.
+2. Email 📬 **info@voluma.tech**
 
 We are currently onboarding launchpads, DAOs, and token creators aligned with the visibility-first ethos.
 
